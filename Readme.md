@@ -8,7 +8,7 @@ Proyecto desarrollado como parte del módulo M7 del Bootcamp *Talento Digital*, 
 
 **Estructura de carpetas:**
 
-
+```bash
 TiendaOnline/
 ├── manage.py
 ├── tiendacositas/
@@ -23,7 +23,7 @@ TiendaOnline/
 │ ├── migrations/
 │ └── tests.py
 └── .gitignore
-
+```
 
 ---
 
